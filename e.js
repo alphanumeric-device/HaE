@@ -1,3 +1,3 @@
 var r = 5
-export default {r}
+//export default {r}
 alert("r")
