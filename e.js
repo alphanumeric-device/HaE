@@ -1,6 +1,6 @@
-var r = 5
-export default r;
-function randint(min, max) {
+
+export const r = 5;
+export function randint(min, max) {
   return Math.floor(Math.random() * (max - min + 1)) + min;
 }
-export default { randint }
+
